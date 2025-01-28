@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar />
       <main className="text-center mt-10">
         <h1 className="text-4xl font-bold text-amber-800 mb-5">
-          COM 300 AI Assignment
+          COM 327 AI Assignment
         </h1>
         <Image
           src="/matooo.jpg"
